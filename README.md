@@ -9,7 +9,7 @@
 - **数据库**：MySQL, MongoDB, Redis
 - **工具**：Docker, Git, Claude Code（效率翻倍）
 - **前端**：Vue React  毕业设计两者 都实现了
-- **操作系统**：Linux 命令行日常用，但一上手就 Google 的那种半吊子水平
+- **操作系统**：Linux  WSL 忠实粉丝
 - **大模型应用**：GLM / Claude / Kimi Coding Plan 三修选手，做过 coding-plan-monitor、glm-plan-widget 之类的小工具
 
 ## 我现在的工作与学习 ✨
@@ -70,14 +70,12 @@
 ## 我的 GitHub 统计 📊
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Huazeu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huazeu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-xi.vercel.app/api?username=Huazeu&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-xi.vercel.app/api/top-langs/?username=Huazeu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Huazeu&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Huazeu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165"/>
 </p>
 
 > 如果你也对技术、编程或者开源有热情，不妨一起交流、合作！一起让技术变得更有趣！🎉

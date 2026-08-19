@@ -7,7 +7,7 @@
 - **编程语言**：Java, Python, TypeScript, Go（Rust 学习中，本菜鸡还在和借用检查器斗智斗勇）
 - **框架**：Spring Boot, Spring Cloud, Vue
 - **数据库**：MySQL, MongoDB, Redis
-- **工具**：Docker, Git, Claude Code（已经离不开这个了，效率翻倍）
+- **工具**：Docker, Git, Claude Code（效率翻倍）
 - **前端**：Vue React  毕业设计两者 都实现了
 - **操作系统**：Linux 命令行日常用，但一上手就 Google 的那种半吊子水平
 - **大模型应用**：GLM / Claude / Kimi Coding Plan 三修选手，做过 coding-plan-monitor、glm-plan-widget 之类的小工具

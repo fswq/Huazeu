@@ -74,8 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Huazeu&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Huazeu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.zohan.tech/api?username=Huazeu&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Huazeu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165"/>
 </p>
 
 > 如果你也对技术、编程或者开源有热情，不妨一起交流、合作！一起让技术变得更有趣！🎉

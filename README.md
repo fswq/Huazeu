@@ -4,7 +4,7 @@
 
 ## 我的技术栈 🛠️
 
-- **编程语言**：Java, Python, TypeScript, Go（Rust 学习中，本菜鸡还在和借用检查器斗智斗勇）
+- **编程语言**：Java, Python, TypeScript, Go（Rust 学习中）
 - **框架**：Spring Boot, Spring Cloud, Vue
 - **数据库**：MySQL, MongoDB, Redis
 - **工具**：Docker, Git, Claude Code（效率翻倍）
